@@ -1,7 +1,5 @@
 # Hospital-Vocabulary
-English Arabic Medical Words eBook
-<br>
-Author: Meghaney
+English-Arabic Medical Words.  Author: Meghaney
 <br>
 Hospital Vocabulary  مفردات المستشفى  book has more than 600 English-Arabic medical words. The book is the output of an idea that came to my mind when my youngest daughter after completing her B.ScN (Bachelor of Science in Nursing) and five years work experience as registered nurse, got her first foreign job in an Arabic speaking country.
 
